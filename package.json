@@ -1,5 +1,6 @@
 {
   "name": "Ragav Server",
+  "deploy":"https://ecomm-server-zjbp.onrender.com/",
   "version": "1.0.0",
   "description": "Test Server",
   "proxy": "http://localhost:3000/1 ",
